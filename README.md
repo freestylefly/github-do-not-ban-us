@@ -895,3 +895,4 @@ You can:
 - Zhuo Y. Chen from China 🇨🇳([wizcas](https://github.com/wizcas))
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
+- Cang He from China 🇨🇳 ([freestylefly](https://github.com/freestylefly))
